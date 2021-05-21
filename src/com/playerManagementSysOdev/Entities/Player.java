@@ -10,6 +10,7 @@ public class Player {
     private String nationalIdentity;
     private String email;
     private String password;
+    private String phoneNumber;
 
     public void Player(){
 
@@ -26,7 +27,7 @@ public class Player {
         this.phoneNumber = phoneNumber;
     }
 
-    private String phoneNumber;
+    
 
 
 
